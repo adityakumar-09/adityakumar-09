@@ -68,19 +68,15 @@
 
 ---
 
-### 📊 GitHub Stats & Fun Corner
+### 📊 GitHub Stat
 
 <table>
 <tr>
 <td align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityakumar-09&layout=compact&theme=radical&langs_count=6" width="250" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityakumar-09&layout=compact&theme=radical&langs_count=6" width="400" alt="Most Used Languages" />
 </td>
 <td align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=adityakumar-09&theme=radical" width="250" alt="GitHub Streak" />
-</td>
-<td align="center">
-  <img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="80" alt="Keep Learning" /><br/>
-  <em style="font-size: 11px;">Keep learning. Keep exploring.<br/>Data never sleeps.</em>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=adityakumar-09&theme=radical" width="400" alt="GitHub Streak" />
 </td>
 </tr>
 </table>
@@ -89,8 +85,13 @@
 
 ### 📬 Connect with Me
 
-- 📧 Email: adityakumar09@email.com  
-- 💼 LinkedIn: [linkedin.com/in/adityakumar-09](https://www.linkedin.com/in/adityakumar-09)
+<p align="center">
+  <a href="mailto:adityakumar09@email.com"><img src="https://img.icons8.com/color/48/gmail--v1.png" width="40" alt="Email"/></a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/adityakumar-09" target="_blank"><img src="https://img.icons8.com/color/48/linkedin.png" width="40" alt="LinkedIn"/></a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/adityakumar_09" target="_blank"><img src="https://img.icons8.com/color/48/instagram-new--v1.png" width="40" alt="Instagram"/></a>
+</p>
 
 ---
 
