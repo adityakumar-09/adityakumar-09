@@ -9,10 +9,10 @@
 
 ### 🔍 About Me
 
-- 🎓 Final-year B.Sc. (Computer Science) student
-- 💼 Currently building projects in **Data Analytics**
-- 🧠 Passionate about turning raw data into meaningful insights
-- 📚 Always learning and applying new data tools and techniques
+- 🎓 Final-year B.Sc. (Computer Science) student  
+- 💼 Currently building projects in **Data Analytics**  
+- 🧠 Passionate about turning raw data into meaningful insights  
+- 📚 Always learning and applying new data tools and techniques  
 - 🔍 Looking for **Internships in Data Science**
 
 ---
@@ -20,27 +20,35 @@
 ### 🛠️ Skills
 
 #### Programming & Analytics
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MS Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" />
-</p>
+<table>
+<tr>
+  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/><br/>Python</td>
+  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/><br/>SQL</td>
+  <td align="center"><img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" width="40" height="40"/><br/>Excel</td>
+  <td align="center"><img src="https://img.icons8.com/color/48/000000/power-bi.png" width="40" height="40"/><br/>Power BI</td>
+  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/><br/>HTML</td>
+  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/><br/>CSS</td>
+</tr>
+</table>
 
 #### Libraries & Tools
-<p>
-  <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-000000?style=flat&logo=matplotlib&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-5A7D9A?style=flat" />
-</p>
+<table>
+<tr>
+  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40"/><br/>NumPy</td>
+  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/><br/>Pandas</td>
+  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" height="40"/><br/>Matplotlib</td>
+  <td align="center"><img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="60" height="40"/><br/>Seaborn</td>
+</tr>
+</table>
 
 #### Tools & Platforms
-<p>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" />
-</p>
+<table>
+<tr>
+  <td align="center"><img src="https://img.icons8.com/ios-filled/50/000000/github.png" width="40" height="40"/><br/>GitHub</td>
+  <td align="center"><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" width="40" height="40"/><br/>VS Code</td>
+  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/><br/>SQL</td>
+</tr>
+</table>
 
 ---
 
@@ -60,15 +68,19 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Fun Corner
 
 <table>
 <tr>
-<td>
-  <img src="https://github-readme-stats.vercel.app/api?username=adityakumar-09&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+<td align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityakumar-09&layout=compact&theme=radical&langs_count=6" width="300" alt="Most Used Languages" />
 </td>
-<td>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=adityakumar-09&theme=radical" alt="GitHub Streak" />
+<td align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=adityakumar-09&theme=radical" width="300" alt="GitHub Streak" />
+</td>
+<td align="center">
+  <img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="150" alt="Keep Learning" /><br/>
+  <em style="font-size: 11px;">Keep learning. Keep exploring.<br/>Data never sleeps.</em>
 </td>
 </tr>
 </table>
@@ -82,5 +94,6 @@
 
 ---
 
-> "Learning never exhausts the mind, it only ignites it."
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=0D9BFF&center=true&vCenter=true&width=800&lines=Learning+never+exhausts+the+mind,+it+only+ignites+it." alt="Typing Quote" />
+</p>
