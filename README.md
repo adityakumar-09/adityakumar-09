@@ -73,13 +73,13 @@
 <table>
 <tr>
 <td align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityakumar-09&layout=compact&theme=radical&langs_count=6" width="300" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityakumar-09&layout=compact&theme=radical&langs_count=6" width="250" alt="Most Used Languages" />
 </td>
 <td align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=adityakumar-09&theme=radical" width="300" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=adityakumar-09&theme=radical" width="250" alt="GitHub Streak" />
 </td>
 <td align="center">
-  <img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="150" alt="Keep Learning" /><br/>
+  <img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="80" alt="Keep Learning" /><br/>
   <em style="font-size: 11px;">Keep learning. Keep exploring.<br/>Data never sleeps.</em>
 </td>
 </tr>
