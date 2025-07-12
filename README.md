@@ -86,11 +86,11 @@
 ### 📬 Connect with Me
 
 <p align="center">
-  <a href="mailto:adityakumar09@email.com"><img src="https://img.icons8.com/color/48/gmail--v1.png" width="40" alt="Email"/></a>
+  <a href="mailto:adityakumar991051@gmail.com"><img src="https://img.icons8.com/color/48/gmail--v1.png" width="40" alt="Email"/></a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/adityakumar-09" target="_blank"><img src="https://img.icons8.com/color/48/linkedin.png" width="40" alt="LinkedIn"/></a>
+  <a href="www.linkedin.com/in/aditya-kumar-a35963371" target="_blank"><img src="https://img.icons8.com/color/48/linkedin.png" width="40" alt="LinkedIn"/></a>
   &nbsp;&nbsp;
-  <a href="https://www.instagram.com/adityakumar_09" target="_blank"><img src="https://img.icons8.com/color/48/instagram-new--v1.png" width="40" alt="Instagram"/></a>
+  <a href="https://www.instagram.com/aditya_kumar.09" target="_blank"><img src="https://img.icons8.com/color/48/instagram-new--v1.png" width="40" alt="Instagram"/></a>
 </p>
 
 ---
