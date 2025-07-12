@@ -12,9 +12,8 @@
 - 🎓 Final-year B.Sc. (Computer Science) student
 - 💼 Currently building projects in **Data Analytics**
 - 🧠 Passionate about turning raw data into meaningful insights
-- 📊 Skilled in **Power BI, Python (Pandas, NumPy), SQL, Excel**
 - 📚 Always learning and applying new data tools and techniques
-- 🔍 Looking for **Internships in Data Analytics / Data Science**
+- 🔍 Looking for **Internships in Data Science**
 
 ---
 
