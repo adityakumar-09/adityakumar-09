@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Kumar</h1>
-<h3 align="center">Aspiring Data Analyst | Python | SQL | Power BI | Excel</h3>
+<h3 align="center">Aspiring Data Analyst</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0D9BFF&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Exploring+Data+1+line+at+a+time;Data+Driven+Decisions" alt="Typing SVG" />
@@ -9,8 +9,7 @@
 
 ### 🔍 About Me
 
-- 🎓 Final-year B.Sc. (Computer Science) student  
-- 💼 Currently building projects in **Data Analytics**  
+- 🎓 Final-year B.Sc. (Computer Science) student   
 - 🧠 Passionate about turning raw data into meaningful insights  
 - 📚 Always learning and applying new data tools and techniques  
 - 🔍 Looking for **Internships in Data Science**
