@@ -1,67 +1,87 @@
 <h1 align="center">Hi 👋, I'm Aditya Kumar</h1>
-<h3 align="center">Aspiring Data Analyst | Python • SQL • Power BI • Excel</h3>
+<h3 align="center">Aspiring Data Analyst | Python | SQL | Power BI | Excel</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0D9BFF&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Exploring+Data+1+line+at+a+time;Data+Driven+Decisions" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🌱 About Me
+### 🔍 About Me
 
-- 🔭 I’m currently working on real-world data projects using **Python, SQL, Power BI, and Excel**
-- 🌱 Learning advanced **Power Query, DAX**, and **Data Modelling**
-- 📘 I’ve completed projects like:
-  - `Vendor Sales Analysis` (SQL + Power BI)
-  - `Hospital ER Dashboard` (Excel)
-  - `Spam Classifier` (Python NLP)
-  - `Calorie Meal Planner` (Project management & planning)
-- 💬 Ask me about anything data-related or beginner-friendly tools
-- 📫 Reach me: your.email@example.com | [LinkedIn](https://linkedin.com/in/your-profile)
+- 🎓 Final-year B.Sc. (Computer Science) student
+- 💼 Currently building projects in **Data Analytics**
+- 🧠 Passionate about turning raw data into meaningful insights
+- 📊 Skilled in **Power BI, Python (Pandas, NumPy), SQL, Excel**
+- 📚 Always learning and applying new data tools and techniques
+- 🔍 Looking for **Internships in Data Analytics / Data Science**
 
 ---
 
-### 🛠️ My Skills
+### 🛠️ Skills
 
+#### Programming & Analytics
 <p>
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Seaborn-2F4F4F?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MS Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" />
+</p>
+
+#### Libraries & Tools
+<p>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-000000?style=flat&logo=matplotlib&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-5A7D9A?style=flat" />
+</p>
+
+#### Tools & Platforms
+<p>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" />
 </p>
 
 ---
 
 ### 📌 Pinned Projects
 
-<!-- Replace repo names with your actual repositories -->
+- 🔹 **[Vendor Sales Analysis](https://github.com/adityakumar-09/vendor-sales-analysis)**  
+  *An e-commerce based project using SQL, Power BI & Excel to derive sales KPIs*
 
-[![Vendor Sales Analysis](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=vendor-sales-analysis&theme=default)](https://github.com/yourusername/vendor-sales-analysis)
+- 🔹 **[Spam Classifier](https://github.com/adityakumar-09/spam-classifier)**  
+  *A machine learning project to detect spam messages using Python*
 
-[![Hospital Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=hospital-dashboard&theme=default)](https://github.com/yourusername/hospital-dashboard)
+- 🔹 **[Calorie Tracker & Meal Planner](https://github.com/adityakumar-09/calorie-meal-planner)**  
+  *Built with a software engineering approach and detailed report documentation*
 
-[![Spam Classifier](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=spam-classifier&theme=default)](https://github.com/yourusername/spam-classifier)
+- 🔹 **[Emergency Room Dashboard (Excel)](https://github.com/adityakumar-09/emergency-room-dashboard)**  
+  *Visual dashboard for hospital emergency room data using Excel*
 
 ---
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="github stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" />
-</p>
+<table>
+<tr>
+<td>
+  <img src="https://github-readme-stats.vercel.app/api?username=adityakumar-09&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+</td>
+<td>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=adityakumar-09&theme=radical" alt="GitHub Streak" />
+</td>
+</tr>
+</table>
 
 ---
 
-### 🤝 Let's Connect
+### 📬 Connect with Me
 
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
-- 💬 Email: your.email@example.com
+- 📧 Email: adityakumar09@email.com  
+- 💼 LinkedIn: [linkedin.com/in/adityakumar-09](https://www.linkedin.com/in/adityakumar-09)
+
+---
+
+> "Learning never exhausts the mind, it only ignites it."
 
