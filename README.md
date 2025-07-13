@@ -90,8 +90,6 @@
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/aditya-kumar-a35963371" target="_blank"><img src="https://img.icons8.com/color/48/linkedin.png" width="40" alt="LinkedIn"/></a>
   &nbsp;&nbsp;
-  <a href="https://www.instagram.com/aditya_kumar.09" target="_blank"><img src="https://img.icons8.com/color/48/instagram-new--v1.png" width="40" alt="Instagram"/></a>
-</p>
 
 ---
 
