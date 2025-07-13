@@ -37,6 +37,7 @@
   <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/><br/>Pandas</td>
   <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" height="40"/><br/>Matplotlib</td>
   <td align="center"><img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="60" height="40"/><br/>Seaborn</td>
+  <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40"/><br/>Jupyter</td>
 </tr>
 </table>
 
