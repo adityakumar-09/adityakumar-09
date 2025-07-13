@@ -37,7 +37,6 @@
   <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/><br/>Pandas</td>
   <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" height="40"/><br/>Matplotlib</td>
   <td align="center"><img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="60" height="40"/><br/>Seaborn</td>
-  <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40"/><br/>Jupyter</td>
 </tr>
 </table>
 
@@ -47,6 +46,7 @@
   <td align="center"><img src="https://img.icons8.com/ios-filled/50/000000/github.png" width="40" height="40"/><br/>GitHub</td>
   <td align="center"><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" width="40" height="40"/><br/>VS Code</td>
   <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/><br/>SQL</td>
+  <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40"/><br/>Jupyter</td>
 </tr>
 </table>
 
