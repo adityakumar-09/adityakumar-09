@@ -85,7 +85,7 @@
 <table>
 <tr>
 <td align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityakumar-09&layout=compact&theme=radical&langs_count=6&cache_seconds=3600" width="400" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityakumar-09&layout=compact&theme=radical&langs_count=6" width="400" alt="Most Used Languages" />
 </td>
 <td align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=adityakumar-09&theme=radical" width="400" alt="GitHub Streak" />
