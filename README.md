@@ -22,7 +22,7 @@
 <table>
 <tr>
   <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/><br/>Python</td>
-  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/><br/>SQL</td>
+  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/><br/>MySQL</td>
   <td align="center"><img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" width="40" height="40"/><br/>Excel</td>
   <td align="center"><img src="https://img.icons8.com/color/48/000000/power-bi.png" width="40" height="40"/><br/>Power BI</td>
   <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/><br/>HTML</td>
@@ -43,12 +43,24 @@
 #### Tools & Platforms
 <table>
 <tr>
-  <td align="center"><img src="https://img.icons8.com/ios-filled/50/000000/github.png" width="40" height="40"/><br/>GitHub</td>
-  <td align="center"><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" width="40" height="40"/><br/>VS Code</td>
-  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/><br/>SQL</td>
-  <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40"/><br/>Jupyter</td>
+  <td align="center">
+    <img src="https://img.icons8.com/ios-filled/50/000000/github.png" width="40" height="40"/><br/>GitHub
+  </td>
+  <td align="center">
+    <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" width="40" height="40"/><br/>VS Code
+  </td>
+  <td align="center">
+    <img src="https://img.icons8.com/color/48/microsoft-sql-server.png" width="40" height="40"/><br/>SSMS
+  </td>
+  <td align="center">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40"/><br/>Jupyter
+  </td>
 </tr>
 </table>
+
+
+
+
 
 ---
 
