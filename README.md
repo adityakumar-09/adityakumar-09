@@ -67,13 +67,10 @@
 ### 📌 Pinned Projects
 
 - 🔹 **[Vendor Sales Analysis](https://github.com/adityakumar-09/vendor-sales-analysis)**  
-  *An e-commerce based project using SQL, Power BI & Excel to derive sales KPIs*
+  *An e-commerce based project using SQL, Pyhton & Power BI to analyze the sales performance*
 
 - 🔹 **[Spam Classifier](https://github.com/adityakumar-09/spam-classifier)**  
   *A machine learning project to detect spam messages using Python*
-
-- 🔹 **[Calorie Tracker & Meal Planner](https://github.com/adityakumar-09/calorie-meal-planner)**  
-  *Built with a software engineering approach and detailed report documentation*
 
 - 🔹 **[Emergency Room Dashboard (Excel)](https://github.com/adityakumar-09/emergency-room-dashboard)**  
   *Visual dashboard for hospital emergency room data using Excel*
