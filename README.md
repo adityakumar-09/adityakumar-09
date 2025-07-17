@@ -72,7 +72,7 @@
 - 🔹 **[Spam Classifier](https://github.com/adityakumar-09/spam-classifier)**  
   *A machine learning project to detect spam messages using Python*
 
-- 🔹 **[Emergency Room Dashboard (Excel)](https://github.com/adityakumar-09/emergency-room-dashboard)**  
+- 🔹 **[Emergency Room Dashboard (Excel)](https://github.com/adityakumar-09/Emergency-Room-Analysis-Dashboard-Using-Excel)**  
   *Visual dashboard for hospital emergency room data using Excel*
 
 ---
