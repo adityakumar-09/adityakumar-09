@@ -69,8 +69,8 @@
 - 🔹 **[Vendor Sales Analysis](https://github.com/adityakumar-09/vendor-sales-analysis)**  
   *An e-commerce based project using SQL, Pyhton & Power BI to analyze the sales performance*
 
-- 🔹 **[Spam Classifier](https://github.com/adityakumar-09/spam-classifier)**  
-  *A machine learning project to detect spam messages using Python*
+- 🔹 **[Realtime-Weather-Analysis-Dashboard](https://github.com/adityakumar-09/weather-analysis-dashboard)**  
+  *a real-time Weather Analysis Dashboard built using Power BI and live data from the WeatherAPI.*
 
 - 🔹 **[Emergency Room Dashboard (Excel)](https://github.com/adityakumar-09/Emergency-Room-Analysis-Dashboard-Using-Excel)**  
   *Visual dashboard for hospital emergency room data using Excel*
