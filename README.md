@@ -30,15 +30,27 @@
 </tr>
 </table>
 
-#### Libraries & Tools
+#### Libraries & Framework
 <table>
 <tr>
-  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40"/><br/>NumPy</td>
-  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/><br/>Pandas</td>
-  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" height="40"/><br/>Matplotlib</td>
-  <td align="center"><img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="60" height="40"/><br/>Seaborn</td>
+  <td align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40"/><br/>NumPy
+  </td>
+  <td align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/><br/>Pandas
+  </td>
+  <td align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" height="40"/><br/>Matplotlib
+  </td>
+  <td align="center">
+    <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="60" height="40"/><br/>Seaborn
+  </td>
+  <td align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40"/><br/>Django
+  </td>
 </tr>
 </table>
+
 
 #### Tools & Platforms
 <table>
