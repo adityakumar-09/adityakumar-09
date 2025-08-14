@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Kumar</h1>
-<h3 align="center">Aspiring Data Analyst | Data Scientist | Machine Learning | Data Visulization </h3>
+<h3 align="center">Aspiring Data Analyst | Data Scientist | Machine Learning | Data Visualization </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0D9BFF&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Exploring+Data+1+line+at+a+time;Data+Driven+Decisions" alt="Typing SVG" />
@@ -10,7 +10,7 @@
 ### 🔍 About Me
 
 - 🎓 Final-year B.Sc. (Computer Science) student   
-- 🧠 Passionate ML & Data Science enthusiast skilled in Python, SQL, Statistics, machine Learning, and data visualization with a strong focus on problem-solving 
+- 🧠 Passionate ML & Data Science enthusiast skilled in Python, SQL, Statistics, Machine Learning, and data visualization with a strong focus on problem-solving 
 - 📚 Always learning and applying new data tools and techniques 
 - 🔍 Looking for **Internships in Data Science**
 
@@ -43,14 +43,10 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" height="40"/><br/>Matplotlib
   </td>
   <td align="center">
-    <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="60" height="40"/><br/>Seaborn
-  </td>
-  <td align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40"/><br/>Django
   </td>
 </tr>
 </table>
-
 
 #### Tools & Platforms
 <table>
@@ -70,26 +66,22 @@
 </tr>
 </table>
 
-
-
-
-
 ---
 
 ### 📌 Pinned Projects
 
 - 🔹 **[Vendor Sales Analysis](https://github.com/adityakumar-09/vendor-sales-analysis)**  
-  *An e-commerce based project using SQL, Pyhton & Power BI to analyze the sales performance*
+  *An e-commerce based project using SQL, Python & Power BI to analyze the sales performance*
 
 - 🔹 **[Realtime-Weather-Analysis-Dashboard](https://github.com/adityakumar-09/weather-analysis-dashboard)**  
-  *a real-time Weather Analysis Dashboard built using Power BI and live data from the WeatherAPI.*
+  *A real-time Weather Analysis Dashboard built using Power BI and live data from the WeatherAPI.*
 
-- 🔹 **[Business-Marketing-and-Cusotmer-Sentiment-Analysis](https://github.com/adityakumar-09/Business-Marketing-and-Customer-Sentiment-Analysis/tree/main)**  
-  *analyzes an online retail business suffering from low customer engagement and decreasing conversion rates*
+- 🔹 **[Business-Marketing-and-Customer-Sentiment-Analysis](https://github.com/adityakumar-09/Business-Marketing-and-Customer-Sentiment-Analysis/tree/main)**  
+  *Analyzes an online retail business suffering from low customer engagement and decreasing conversion rates*
 
 ---
 
-### 📊 GitHub Stat
+### 📊 GitHub Stats
 
 <table>
 <tr>
@@ -97,7 +89,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityakumar-09&layout=compact&theme=radical&langs_count=6&cache_seconds=3600" width="400" alt="Most Used Languages" />
 </td>
 <td align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=adityakumar-09&theme=radical&cache_seconds=43,200" width="400" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=adityakumar-09&theme=radical&cache_seconds=43200" width="400" alt="GitHub Streak" />
 </td>
 </tr>
 </table>
@@ -111,6 +103,8 @@
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/aditya-kumar-a35963371" target="_blank"><img src="https://img.icons8.com/color/48/linkedin.png" width="40" alt="LinkedIn"/></a>
   &nbsp;&nbsp;
+  <a href="https://leetcode.com/u/aditya_kumar_09/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" alt="LeetCode"/></a>
+</p>
 
 ---
 
