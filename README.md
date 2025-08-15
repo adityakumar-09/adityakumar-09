@@ -45,8 +45,12 @@
   <td align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40"/><br/>Django
   </td>
+  <td align="center">
+    <img src="https://www.django-rest-framework.org/img/logo.png" width="40" height="40"/><br/> DRF 
+  </td>
 </tr>
 </table>
+
 
 #### Tools & Platforms
 <table>
